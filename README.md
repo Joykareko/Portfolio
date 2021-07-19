@@ -20,5 +20,4 @@ This project integrates various news source for performing sentiment analysis pe
 * **Python libraries used:** NLTK
 * **Input:** Tweets, News
 * **Output:** Sentiment of Tweets from Twitter under #womenwhocode
-* 
-  
+
