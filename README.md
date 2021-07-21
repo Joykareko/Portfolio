@@ -19,7 +19,7 @@ Unsplash
 </a>
 
 This project integrates various news source for performing sentiment analysis pertaining to #womenwhocode on twitter.
-* **Python libraries used:** NLTK,Pandas,Textblob,Wordcloud,numpy,matplotlib
+* **Python libraries used:** NLTK,Pandas,Textblob,Wordcloud,numpy,matplotlib,re,requests,json
 * **Input:** Tweets, News
 * **Output:** Sentiment of Tweets from Twitter under #womenwhocode hashtag
 
