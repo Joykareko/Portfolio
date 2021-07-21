@@ -1,4 +1,4 @@
-# Joy H Mukami Kareko
+# Kareko Joy Hilda Mukami
 *Data Analyst
 
 # Education
