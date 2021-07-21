@@ -24,7 +24,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Output:** Sentiment of Tweets from Twitter under #womenwhocode hashtag
 
 # [Project 2: Analysis of Covid-19 Data in SQL]
-![alt text](https://unsplash.com/photos/fPkvU7RDmCo)
+![alt text](caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg)
  
 
 Photo by 
