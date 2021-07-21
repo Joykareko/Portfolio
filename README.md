@@ -1,5 +1,5 @@
 # Kareko Joy Hilda Mukami
-*Data Analyst
+* Data Analyst
 
 # Education
 * Masters of Science (Statistical Science), *Strathmore University*, 2017-2019
