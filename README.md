@@ -24,7 +24,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Output:** Sentiment of Tweets from Twitter under #womenwhocode hashtag
 
 # [Project 2: Analysis of Covid-19 Data in SQL]
-![alt text](caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg)
+![alt text](caspar-camille-rubin-fPkvU7RDmCo-unsplash (1).jpg)
  
 
 Photo by 
@@ -39,5 +39,5 @@ on
 
 This project used Covid-19 Data obtained from OWID. The focus was to analyse the data in SQL.
 * **SQL libraries used:** Sqlite3
-* **Input:** Covid1-19 complete Data(uptodate)
+* **Input:** Covid-19 complete Data(uptodate) with vaccinations and infections and deaths
 * **Output:** Data exploratory tasks using SQL
