@@ -1,5 +1,5 @@
 # Joy H Mukami Kareko
-*An Aspiring Data Scientist 
+*Data Analyst
 
 # Education
 * Masters of Science (Statistical Science), *Strathmore University*, 2017-2019
