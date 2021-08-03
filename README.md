@@ -43,7 +43,7 @@ This project used Covid-19 Data obtained from OWID. The focus was to analyse the
 * **Output:** Data exploratory tasks using SQL
 
 # [Project 3: Voice Assistant with Tkinter]
-![alt text](bence-boros-anapPhJFRhM-unsplash.jpg)
+![alt text](bence-boros-anapPhJFRhM-unsplash (1).jpg)
  
 Photo by 
 <a href="https://unsplash.com/@benceboros?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
