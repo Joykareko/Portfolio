@@ -41,3 +41,22 @@ This project used Covid-19 Data obtained from OWID. The focus was to analyse the
 * **SQL libraries used:** Sqlite3
 * **Input:** Covid-19 complete Data(uptodate) with vaccinations and infections and deaths
 * **Output:** Data exploratory tasks using SQL
+
+# [Project 3: Voice Assistant with Tkinter]
+![alt text](bence-boros-anapPhJFRhM-unsplash.jpg)
+ 
+Photo by 
+<a href="https://unsplash.com/@benceboros?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+ BENCE BOROS
+</a> 
+on 
+<a href="https://unsplash.com/s/photos/voice-assistant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+ Unsplash
+</a>
+  
+ 
+This project used inbuilt google speech recognition and is in progress to use Africa's NLP.
+This project was also a collaborative effort between a group of ladies also doing the Women Techsters Bootcamp.
+* **Python libraries used:** Tkinter,pyAudio,gTTS,os,re.
+* **Input:** Voice recognition commands
+* **Output:** Search capabilities on default windows search engine.
